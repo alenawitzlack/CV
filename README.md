@@ -19,6 +19,7 @@ I worked on various aspects of the typology of grammatical relations. These are 
 
 #### So-called Khoisan
 * I worked on two so-called Khoisan languages and on the typology of the Kalahari Basin Languages more generally.
+* I am a co-depositor of the documentation collection [Text documentation of Nǀuu](https://www.elararchive.org/uncategorized/SO_6a3f1361-78ed-4830-b166-ec84c6c47da8/) (or Nǁng or ǂKhomani) at Endangered Languages Archive.
 
 #### Ruuli (East Bantu)
 * Together with Saudah Namyalo (Makerere University) and a number of colleague, I worked on the documentation of the previously not described language [Ruuli](https://glottolog.org/resource/languoid/id/ruul1235). We published [this grammar sketch and a dicitonary](https://langsci-press.org/catalog/book/326), as well as a number of papers on various topics of Ruuli morphosyntax.
