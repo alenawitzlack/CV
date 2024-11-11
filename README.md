@@ -17,12 +17,13 @@ I worked on various aspects of the typology of grammatical relations. These are 
 #### The Nsua of Semuliki Forest
 * In January 2025 me and Saudah Namyalo (Makerere University) are embarking on a new documentation project funded by ELDP. We will work on _Documentation and description of the linguistic repertoires, culture, and oral tradition of the Nsua of Semuliki Forest_
 
+#### Ruuli (East Bantu)
+* Together with Saudah Namyalo (Makerere University) and a number of colleague, I worked on the documentation of the previously not described language [Ruuli](https://www.elararchive.org/dk0089). We published [this grammar sketch and a dicitonary](https://langsci-press.org/catalog/book/326), as well as a number of papers on various topics of Ruuli morphosyntax.
+  
 #### So-called Khoisan
 I worked on two so-called Khoisan languages and on the typology of the Kalahari Basin Languages more generally.
 * [Towards a phonological typology of the Kalahari Basin Area languages](https://www.degruyter.com/document/doi/10.1515/lingty-2022-0047/html?lang=en) is the most recent paper on the Kalahari Basin Area.
 * In 2021-2024 I was running the ISF-funded project _Peripheral [Khoekhoe](https://glottolog.org/resource/languoid/id/khoe1242) varieties: A comprehensive documentation and description_. We are working on the first papers from this project. We contributed a valency dataset to the [BiValTyp](https://www.bivaltyp.info/languages/descriptions/Khoekhoe.html) project.
 * I am a co-depositor of the documentation collection [Text documentation of Nǀuu](https://www.elararchive.org/uncategorized/SO_6a3f1361-78ed-4830-b166-ec84c6c47da8/) (or Nǁng or ǂKhomani) at Endangered Languages Archive.
-* Since 2022 I resumed 
 
-#### Ruuli (East Bantu)
-* Together with Saudah Namyalo (Makerere University) and a number of colleague, I worked on the documentation of the previously not described language [Ruuli](https://www.elararchive.org/dk0089). We published [this grammar sketch and a dicitonary](https://langsci-press.org/catalog/book/326), as well as a number of papers on various topics of Ruuli morphosyntax.
+
