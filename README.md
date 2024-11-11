@@ -1,9 +1,10 @@
 # Alena Witzlack-Makarevich, Curriculum Vitæ
 * Full CV as [PDF](https://github.com/alenawitzlack/CV/blob/main/Witzlack2024CV.pdf)
 
-I am a professor of [Linguisics at Hebrew University of Jerusalem](https://en.linguistics.huji.ac.il/). Before coming to Jerusalem in 2018, I was an Assistant Professor (Juniorprofessorin) for typology and linguistic variance at the Department of General Linguistics at the University of Kiel. Before that I was a Postdoctoral Researcher at the University of Leipzig and at the University of Zurich.</p>
-
-I received my PhD from the University of Leipzig in 2011. I wrote my thesis on _Typological variation in grammatical relations_ with Balthasar Bickel and Johanna Nichols.</p>
+* I am a professor of [Linguisics at Hebrew University of Jerusalem](https://en.linguistics.huji.ac.il/). 
+* Before coming to Jerusalem in 2018, I was an Assistant Professor (Juniorprofessorin) for typology and linguistic variance at the Department of General Linguistics at the University of Kiel.
+* Before that I was a Postdoctoral Researcher at the University of Leipzig and at the University of Zurich.
+* I received my PhD from the University of Leipzig in 2011. I wrote my thesis on Typological variation in grammatical relations with Balthasar Bickel and Johanna Nichols.
     
 ## Projects
 ### Grammatical relations typology
