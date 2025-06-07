@@ -1,6 +1,7 @@
 # Alena Witzlack-Makarevich, Curriculum Vitæ
 * Full CV as [PDF](https://github.com/alenawitzlack/CV/blob/main/Witzlack2024CV.pdf)
 
+* Currently (till October 2025), I am on sabbatical at the University of Cologne as an associate of [SFB 1252 "Prominence in Language"](https://sfb1252.uni-koeln.de/en/).
 * I am a professor of [Linguisics at Hebrew University of Jerusalem](https://en.linguistics.huji.ac.il/). 
 * Before coming to Jerusalem in 2018, I was an Assistant Professor (Juniorprofessorin) for typology and linguistic variance at the Department of General Linguistics at the University of Kiel.
 * Before that I was a Postdoctoral Researcher at the University of Leipzig and at the University of Zurich.
@@ -16,7 +17,7 @@ I worked on various aspects of the typology of grammatical relations. These are 
 
 ### Language description and documentation
 #### The Nsua of Semuliki Forest
-* In January 2025 me and Saudah Namyalo (Makerere University) are embarking on a new documentation project funded by ELDP. We will work on _Documentation and description of the linguistic repertoires, culture, and oral tradition of the Nsua of Semuliki Forest_
+* In January 2025 me and Saudah Namyalo (Makerere University) embarked on a new documentation project funded by ELDP. We will work on _Documentation and description of the linguistic repertoires, culture, and oral tradition of the Nsua of Semuliki Forest_
 
 #### Ruuli (East Bantu)
 * Together with Saudah Namyalo (Makerere University) and a number of colleague, I worked on the documentation of the previously not described language [Ruuli](https://www.elararchive.org/dk0089). We published [this grammar sketch and a dicitonary](https://langsci-press.org/catalog/book/326), as well as a number of papers on various topics of Ruuli morphosyntax.
