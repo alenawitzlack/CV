@@ -1,8 +1,9 @@
 # Alena Witzlack-Makarevich, Curriculum Vitæ
 * Full CV as [PDF](https://github.com/alenawitzlack/CV/blob/main/Witzlack2024CV.pdf)
 
-* Currently (till October 2025), I am on sabbatical at the University of Cologne as an associate of [SFB 1252 "Prominence in Language"](https://sfb1252.uni-koeln.de/en/).
-* I am a professor of [Linguisics at Hebrew University of Jerusalem](https://en.linguistics.huji.ac.il/). 
+* Since October 2025 I am a professor of General and comparative linguistics (W3) at the [University of Bremen](https://www.uni-bremen.de/fb-10).
+* From September 2024 until October 2025, I was on sabbatical at the University of Cologne as an associate of [SFB 1252 "Prominence in Language"](https://sfb1252.uni-koeln.de/en/).
+* In 2018–2025 I was a senior lecturer and then a professor of [Linguisics at Hebrew University of Jerusalem](https://en.linguistics.huji.ac.il/). 
 * Before coming to Jerusalem in 2018, I was an Assistant Professor (Juniorprofessorin) for typology and linguistic variance at the Department of General Linguistics at the University of Kiel.
 * Before that I was a Postdoctoral Researcher at the University of Leipzig and at the University of Zurich.
 * I received my PhD from the University of Leipzig in 2011. I wrote my thesis on Typological variation in grammatical relations with Balthasar Bickel and Johanna Nichols.
